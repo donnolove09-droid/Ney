@@ -22,7 +22,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>vi_VN</string>
 	<key>CFBundleDisplayName</key>
-	<string>Liên Quân Free</string>
+	<string>QDON VIP</string>
 	<key>CFBundleExecutable</key>
 	<string>kgvn</string>
 	<key>CFBundleIconFiles</key>
@@ -32,7 +32,7 @@
 		<string>icon@3x.png</string>
 	</array>
 	<key>CFBundleIdentifier</key>
-	<string>com.garena.game.kgvnfree</string>
+	<string>com.garena.game.kgvnvip</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleLocalizations</key>
@@ -41,7 +41,7 @@
 		<string>en_US</string>
 	</array>
 	<key>CFBundleName</key>
-	<string>Liên Quân Free</string>
+	<string>QDON VIP</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
