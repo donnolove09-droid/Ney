@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleDisplayName</key>
-	<string>Liên Quân Free</string>
+	<string>QDON ENLITEP</string>
 	<key>CFBundleName</key>
-	<string>Liên Quân Free</string>
+	<string>QDON ENLITE</string>
 	<key>NSCalendarsUsageDescription</key>
 	<string>Grant permission for event notifications?</string>
 	<key>NSCameraUsageDescription</key>
