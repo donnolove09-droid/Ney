@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Liên Quân Free</string>
+	<key>CFBundleName</key>
+	<string>Liên Quân Free</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Izin ini akan digunakan untuk pengingat Event</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Gunakan untuk Livestreaming Match</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>Ijinkan akses koneksi internet untuk bermain lebih lancar</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Gunakan untuk mencari teman main</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Gunakan untuk mencari teman main</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Gunakan untuk berkomunikasi antar pemain dalam Match</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Gunakan untuk menyimpan gambar Game</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Gunakan ini untuk menyimpan foto In-Game</string>
+	<key>NSRemindersUsageDescription</key>
+	<string>Izin ini akan digunakan untuk pengingat Event</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>This allows us to keep you updated with the new features and events all the time</string>
+</dict>
+</plist>
