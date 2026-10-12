@@ -22,7 +22,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>vi_VN</string>
 	<key>CFBundleDisplayName</key>
-	<string>Bao Huy</string>
+	<string>QDON ENLITE</string>
 	<key>CFBundleExecutable</key>
 	<string>kgvn</string>
 	<key>CFBundleIcons</key>
@@ -60,7 +60,7 @@
 		<string>en_US</string>
 	</array>
 	<key>CFBundleName</key>
-	<string>Bao Huy</string>
+	<string>QDON ENLITE</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
@@ -164,7 +164,7 @@
 	<string>26.2</string>
 	<key>DTSDKBuild</key>
 	<string>23C53</string>
-	<key>DTSDKName</key>
+	<key>QDON ENLITE</key>
 	<string>iphoneos26.2</string>
 	<key>DTXcode</key>
 	<string>2620</string>
@@ -365,7 +365,7 @@
 	<key>WeChatUniversalLink</key>
 	<string>https://docs.itop.qq.com/reference2/</string>
 	<key>SERVER_URL</key>
-	<string>https://your-server.example.com</string>
+	<string>https://qdonhihi.onrender.com</string>
 	<key>API_KEY</key>
 	<string>YOUR_API_KEY_HERE</string>
 </dict>
